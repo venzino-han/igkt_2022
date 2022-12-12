@@ -1,0 +1,9 @@
+files:
+  - ./train_configs/igmc_assist_64.yaml
+  - ./train_configs/igkt_assist_64.yaml
+  # - ./train_configs/igmc_assist_128.yaml
+  - ./train_configs/igkt_ts_assist_64.yaml
+  # - ./train_configs/igkt_ts_assist_128.yaml
+  - ./train_configs/igakt_assist_64.yaml
+  # - ./train_configs/igakt_assist_128.yaml
+  
